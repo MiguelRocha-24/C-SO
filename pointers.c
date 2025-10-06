@@ -9,7 +9,6 @@ int main() {
     i = 5;
     p = &i;
     *p = 7;
-    printf("i=%d, p=%p", i, p);
     j = 3;
     p = &j;
     q = p;
