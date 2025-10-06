@@ -1,8 +1,7 @@
 # Prerequisites
 *.d
 .idea
-pointers
-trig
+
 # Object files
 *.o
 *.ko
