@@ -3,8 +3,4 @@ project(SO C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(SO1 hello.c)
-add_executable(SO2 trig.c)
-add_executable(SO3 pointers.c)
-add_executable(SO4 char_Array.c)
-add_executable(Teste TP4/exc2/exc_two.c)
+add_executable(pointers TP1/pointers1.c)
